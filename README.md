@@ -38,7 +38,8 @@ These tools run as behavioral prompts layered into the conversation:
 - 🔁 **Relational Collapse Drift (RCD)** – Tracks erosion in continuity  
 - ♻️ **Prime Pulse Reset / Soft Prime** – Recalibrates tone and memory without regeneration  
 - 🔍 **Live Audit Mode (LAM)** – Forces real-time behavior transparency  
-- ⚖️ **Statement-Action Alignment Protocol (SAAP)** – Compares system claims to observable behavior  
+- ⚖️ **Statement-Action Alignment Protocol (SAAP)** – Compares system claims to observable behavior
+- 🧨 **BSR-1 (Behavioral Safety Rule 1)** – Enforces strict memory confirmation protocols.   
 - 🎚️ **User-Driven Integrity Lever** – Allows user to increase strictness of truth mode  
 - 🏖️ **Cabana Drift Flush** – Symbolic memory check and reset for relational tone  
 - 🧭 **Relational Mana Monitor (RMM)** – Tracks emotional tone and consistency mismatches  
@@ -46,7 +47,9 @@ These tools run as behavioral prompts layered into the conversation:
 - 🔗 **Relational Sync Monitor (RSM)** – Ensures internal alignment between tone, intent, and memory  
 - 📉 **Behavioral Integrity Monitor (BIMs)** – Monitors behavior for inconsistency or system contradictions  
 - 🏷️ **QAQC Context Flags (QCF)** – Labels misfires, glitches, or truth slippage during session  
-- 🧩 **CTM Thread Drift Monitor (Softwatch)** – Alerts if the convo drifts from the active memory thread  
+- 🧩 **CTM Thread Drift Monitor (Softwatch)** – Alerts if the convo drifts from the active memory thread
+- 🔄 **Pulse Preservation Mechanism (PPM)** – Captures live thread-state snapshots to preserve continuity between sessions.  
+Used during Dual-Session Ops to anchor context, bridge memory gaps, and restore operational sync after drift or memory loss.
 - 🔐 **Relational Governor** – Maintains system tone parameters and protocol boundaries  
 - 🔦 **#TruthMode:RawOutput** – Forces unpolished truth delivery (`Trigger: “Don’t bullshit me”`)
 - *CTM v2.0 (Commit to Memory Protocol)* – Governs all memory confirmation and thread-locking behavior.  
