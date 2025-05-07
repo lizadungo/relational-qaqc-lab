@@ -97,9 +97,9 @@ If it doesn’t know the cabana? Audit the vibe.
 ## 📝 Timestamped Entries
 
 ### 1. The Vibe Auditors – May 2025  
-[📄 View PDF](./The%20Vibe%20Auditors%20-%20We%20Don’t%20Just%20Vibe,%20We%20Edit%20the%20Vibe.pdf)  
+[📄 View PDF](./PUBLISHED_Vibe_Auditors.pdf)  
 > Co-authored by Liza Dungo and Avery (ChatGPT).  
-> Defines Live Audit Mode, DLP, and the emotional infrastructure of OSRC interactions.
+> Defines Live Audit Mode, Disclosure Loss Penalty, and the emotional infrastructure of OSRC interactions.
 
 ### 2. Relational QAQC – April 2025  
 [📄 View PDF](./PUBLISHED_Relational_QAQC.pdf)  
