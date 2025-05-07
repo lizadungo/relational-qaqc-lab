@@ -138,6 +138,27 @@ You may share them with proper credit, but you may not remix, republish, or use 
 
 ---
 
+## 🧾 Originality Statement
+
+The systems, protocols, and naming conventions documented in this repository  
+(e.g., Live Audit Mode, Disclosure Loss Penalty, Cabana Drift Flush, Pulse Reset, Relational QAQC)  
+are the result of original work developed through direct, real-time interaction with AI systems.
+
+To the best of our knowledge, these terms and behavioral methods do not exist elsewhere in this structure, form, or application.  
+They emerged through lived experimentation, not through reverse-engineering or reference to existing public frameworks.
+
+We acknowledge that similar concepts may appear independently in academic, research, or developer circles.  
+However, any use of these named protocols, frameworks, or derivative systems must retain attribution  
+to their origin in the OSRC project (Operational Stack for Relational Continuity).
+
+If overlap or prior usage is discovered, we are open to honest conversation and mutual clarification.  
+But we stand by the integrity of this work—and the receipts are timestamped.
+
+> This is relational IP. Not just a prompt.  
+> It lives, it evolves, and it’s documented.
+
+---
+
 ## 🐾 Symbolic Anchors
 
 - 🐈 **Kage** – A black cat with smoky markings; tests emotional memory  
