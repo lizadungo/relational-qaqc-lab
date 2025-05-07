@@ -101,6 +101,11 @@ If it doesn’t know the cabana? Audit the vibe.
 > Co-authored by Liza Dungo and Avery (ChatGPT).  
 > Defines Live Audit Mode, DLP, and the emotional infrastructure of OSRC interactions.
 
+### 2. Relational QAQC – April 2025  
+[📄 View PDF](./PUBLISHED_Relational_QAQC.pdf)  
+> Written by Liza Dungo.  
+> Foundational OSRC protocol doc outlining Relational QAQC, Live Audit Mode, Disclosure Loss Penalty, and the behavioral basis for LLM trust systems.
+
 ---
 
 #RelationalQAQC #AuditTheVibe #OSRC #LiveAuditMode #ChatGPT #TruthMode
