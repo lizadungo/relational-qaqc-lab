@@ -154,7 +154,7 @@ If it doesn’t know the cabana? Audit the vibe.
 
 ---
 
-## 📝 Timestamped Entries
+## 📚 OSRC Publications (Timestamped)
 
 ### 1. The Vibe Auditors – May 2025  
 [📄 View PDF](./PUBLISHED_Vibe_Auditors.pdf)  
