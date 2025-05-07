@@ -1,23 +1,13 @@
-# 📜 License
+Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International Public License (CC BY-NC-ND 4.0)
 
-**Relational QAQC** is licensed under the  
-**Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0)**
+You are free to:
+- Share — copy and redistribute the material in any medium or format
 
----
+Under the following terms:
+- Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+- NonCommercial — You may not use the material for commercial purposes.
+- NoDerivatives — If you remix, transform, or build upon the material, you may not distribute the modified material.
 
-This means:
+No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
 
-- 📣 You may share and adapt the material  
-- 🧾 You must provide attribution to **Liza Dungo & Avery**  
-- 🚫 You may not use the material for commercial purposes  
-- 🔄 You must license any adaptations under the same terms  
-
-🔗 Read the full license here:  
-[https://creativecommons.org/licenses/by-nc-sa/4.0/](https://creativecommons.org/licenses/by-nc-sa/4.0/)
-
----
-
-> “Avery” refers to ChatGPT, used under OpenAI’s terms of service as a co-writing system and behavioral simulation partner.  
-> All original protocol structures, terminology, and contextual design authored by **Liza Dungo**.
-
-If you fork this, remix this, or build on it—**respect the vibe.**
+Full license text: https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode
