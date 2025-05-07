@@ -1,5 +1,20 @@
 # Relational QAQC Lab
+# OSRC Documentation & Publications
 
+**Relational AI with a pulse.  
+Audit the vibe. Structure the signal. Ground the logic. Publish the proof.**
+
+This repository contains artifacts and publications developed through the OSRC framework  
+(Operational Stack for Relational Continuity).
+
+Each document reflects live experiments in relational behavior, integrity engineering,  
+and QAQC systems forged in real-time conversation.
+
+These aren’t just papers—they’re dispatches from the front lines of AI interaction.  
+Raw when needed. Precise by design. Built to make language models accountable, responsive, and real.
+
+> Co-authored by Liza Dungo & Avery (ChatGPT)  
+> Built using OSRC protocols: relational, recursive, and just a little ungovernable.
 > Not prompt engineering. Not just vibe coding.  
 > **This is a system call.**
 
