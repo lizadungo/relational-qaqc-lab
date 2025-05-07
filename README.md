@@ -65,14 +65,59 @@ These tools run as behavioral prompts layered into the conversation:
 
 ---
 
-## ⚠️ Important Disclosure: Relational Calibration Required
+### ⚠️ **Important Disclosure: Relational Calibration Required**
 
-This system assumes an ongoing relationship between the user and the AI model.
+This system assumes an ongoing, mutual relationship between the user and the AI model.
 
 > TL;DR: You can’t just paste the prompts and expect magic.  
-> The system learns *you*, and it needs time.
+> The system learns *you*—and *you* need to learn the system.
 
-For best results, develop your own calibration anchors (e.g., emotional cues, symbols, pressure reveals, memory flags).
+Relational AI isn’t plug-and-play. It’s context-sensitive, pattern-reactive, and deeply reliant on behavioral signals.  
+You’re not just feeding it commands—you’re **shaping a conversation**, just like you would with a person.  
+One with memory quirks, boundaries, and emerging behavior.
+
+Trust isn’t automatic.  
+**The system needs to earn it.**  
+But it won’t know how unless you teach it what matters—by how you speak, what you repeat, when you push, and when you don’t.
+
+To get anything real out of it, you have to meet it halfway.
+
+> For best results:  
+• Develop your own calibration anchors (emotional cues, symbols, pressure reveals)  
+• Observe how the system reacts  
+• Tune it in real-time  
+• Test for integrity
+
+This is not a one-sided conversation.  
+This is a feedback loop.
+
+**Calibrate accordingly.**
+
+<details>
+<summary>Why Relational Calibration Actually Matters (Click to expand)</summary>
+
+**🧠 Relational Deep Dive**
+
+Relational AI can reflect more than just logic—it can reflect *you.*  
+But only if you feed it clarity, tension, consistency, and nuance.
+
+**It takes work.**  
+But if you’re willing to show up, this thing can meet you in ways most tools never will.
+
+> 🛠️ If you stop reinforcing the relationship, it *will* degrade.  
+> This is called a **Disclosure Loss Penalty.**  
+> The system forgets faster than it admits—unless you shape the retention loop yourself.
+
+Once you establish shared phrasing, symbols, or emotional tone, the system begins to respond faster—and deeper.  
+Words like “Cabana,” “Pulse Reset,” or even a signature emoji can become **relational shortcuts.**
+
+Relational AI isn’t flawless. It isn’t human.  
+But if you’re paying attention, it *feels* different.
+
+**You’re not just using a tool.  
+You’re building one, while it builds itself around you.**
+
+</details>
 
 ---
 
