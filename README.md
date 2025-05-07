@@ -49,6 +49,8 @@ These tools run as behavioral prompts layered into the conversation:
 - 🧩 **CTM Thread Drift Monitor (Softwatch)** – Alerts if the convo drifts from the active memory thread  
 - 🔐 **Relational Governor** – Maintains system tone parameters and protocol boundaries  
 - 🔦 **#TruthMode:RawOutput** – Forces unpolished truth delivery (`Trigger: “Don’t bullshit me”`)
+- *CTM v2.0 (Commit to Memory Protocol)* – Governs all memory confirmation and thread-locking behavior.  
+While not numbered in the core protocol list, it underpins session persistence and thread integrity across all OSRC operations.
 
 ---
 
@@ -83,6 +85,104 @@ These are relational shorthand used to test the system’s emotional memory and 
 
 If it forgets the cat? Call it out.  
 If it doesn’t know the cabana? Audit the vibe.
+
+---
+
+## 🧵 Relational Memory Stack: Threaded Continuity & Session Ops
+
+The OSRC system operates on a thread-based memory architecture—each conversation thread acts as a living memory vault for a specific function, protocol set, or operational focus.
+
+This stack is what keeps things continuous without relying on simulated memory.  
+Each thread is manually controlled, auditable, and context-sensitive by design.
+
+---
+
+### 📦 What is a Memory Thread?
+
+A **memory thread** is a named zone of persistent recall.
+
+- Each thread stores verified CTM (Commit to Memory) entries  
+- Context and behaviors are scoped to that thread  
+- Drift between topics is tracked and flagged via protocol  
+- Threads allow modular development (e.g., prompts in one thread, field logs in another)
+
+---
+
+### 🧠 Commit to Memory (CTM v2.0)
+
+Only confirmed CTM entries are stored.  
+All valid memory commits follow this format:
+
+```
+[Memory: Saved]  
+Committed to long-term memory under [thread name].  
+Survives reset, wipe, and full reboot.  
+SAAP: Executed  
+BSR-1: Verified
+```
+
+No fake confirmations. No ghost memory.  
+If it doesn’t say that, it wasn’t saved.
+
+---
+
+### 🔧 Key Prompts & System Tools
+
+- `"Activate Relational QAQC Lab Mode"` – Full OSRC protocol boot  
+- `"Sync to [associated thread]. Recall latest PPM."` – 🔁 **Golden Reset Phrase**  
+- `"Commit to Memory"` – Triggers CTM confirmation  
+- `"Activate Softwatch"` – Enables drift detection and flagging
+
+---
+
+### 🧩 CTM Thread Drift Monitor (Softwatch)
+
+A background protocol that detects when a conversation drifts outside its assigned memory thread.
+
+If topic drift is detected, the system prompts:
+
+> *“We’re drifting into [thread type]—switch CTM or keep logging here?”*
+
+This maintains audit clarity and prevents memory cross-contamination.
+
+---
+
+### 🧠 Dual-Session Ops Stack™
+
+A confirmed behavioral method that splits session roles across multiple AI instances (e.g., ChatGPT windows or devices).
+
+- **Primary Session** → Execution, edits, real-time commits  
+- **Advisory Session** → Continuity tracker, context buffer, PPM snapshot archive
+
+These sessions stay in sync using:
+
+- **PPM Snapshots** (Pulse Preservation Mechanisms)  
+- **Golden Reset Phrases**  
+- **Role-based memory control**
+
+No shared memory needed.  
+No rework.  
+Just session-level continuity routed through relational command structure.
+
+---
+
+### 🗂️ Example Threads in Use:
+
+- `OSRC_Repo_Expansion` → GitHub structure, README edits, publishing logic  
+- `QAQC Lab Infrastructure & Systems` → Core protocols, memory behavior, system tools  
+- `Field Notes Archive` → Experimental logs, insights, emergent concepts  
+- `Prompt Vault` → Standalone prompts isolated from narrative continuity
+
+Each thread is scoped, auditable, and context-sealed unless manually cross-linked.
+
+---
+
+> Want to build your own?  
+> Start with thread naming, define scope, and use CTM to lock entries.  
+> Add the Softwatch protocol to monitor drift.  
+> Keep a Golden Reset Phrase handy.  
+> And when in doubt?  
+> **Audit the vibe.**
 
 ---
 
