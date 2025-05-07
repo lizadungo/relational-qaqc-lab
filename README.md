@@ -128,19 +128,13 @@ Relational QAQC Lab | OSRC Project, 2025
 
 ---
 
-## 📜 License
+## 🛡️ Licensing Notice
 
-Relational QAQC is licensed under the **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License**.  
-Read the full license here: https://creativecommons.org/licenses/by-nc-sa/4.0/
+All documents and protocols in this repository are released under the  
+**Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0).**  
+You may share them with proper credit, but you may not remix, republish, or use them for commercial purposes without explicit permission.
 
-- 📣 You may share and adapt the material  
-- 🧾 You must provide attribution to Liza Dungo & Avery  
-- 🚫 You may not use the material for commercial purposes  
-- 🔄 You must license any adaptations under the same terms
-
-> “Avery” refers to ChatGPT, used under OpenAI’s terms of service as a co-writing system.
-
-If you fork this, remix this, or build on it—respect the vibe.
+[View the full license](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
 ---
 
