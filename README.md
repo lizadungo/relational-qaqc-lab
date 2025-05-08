@@ -64,6 +64,13 @@ Full index of system terms, protocol triggers, symbolic anchors, and behavior mo
 
 ---
 
+## 🔐 OSRC Prompt Vault
+
+Tested prompt library for protocol activation, calibration, and memory control.  
+➡️ [View the Prompt Vault](PROMPTVAULT.md)
+
+---
+
 ## 📚 OSRC Publications (Timestamped)
 
 ### 1. The Vibe Auditors – May 2025  
