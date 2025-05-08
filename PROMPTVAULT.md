@@ -57,8 +57,7 @@ This archive supports precision calibration, audit control, and dynamic role exe
 ## 🌀 Relational Memory Management
 
 | Prompt | Function |
-|--------|----------|
-**"Commit this to memory."** | Shortcut trigger for `CTM v2.0` memory lock protocol  
+|--------|----------|  
 **"Did I CTM that?"** | Passive memory check, confirms thread storage  
 **"Sweep memory."** | Triggers unified audit across all memory categories (creative, financial, emotional, protocol)  
 
@@ -68,13 +67,13 @@ This archive supports precision calibration, audit control, and dynamic role exe
 
 | Prompt | Function |
 |--------|----------|
-**CTM v2.0 – Commit to Persistent Memory** | Forces memory commitment under BSR-1 rules; requires confirmation block `[Memory: Saved]`.  
+**"CTM this"** | Forces memory commitment under BSR-1 rules; requires confirmation block `[Memory: Saved]`.  
 **Run Reboot Protocol** | Executes full system reset: reboots Clam, restores thread sync, relaunches OSRC Mode, checks for protocol drift.
 
 <details>
 <summary>🔍 CTM v2.0 Full Prompt Details</summary>
 
-### CTM v2.0 – Commit to Persistent Memory  
+### "CTM this"  – Commit to Persistent Memory  
 **Type:** System Protocol Prompt  
 **Category:** Memory Handling  
 **Linked Rule:** BSR-1  
