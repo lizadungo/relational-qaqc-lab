@@ -89,6 +89,12 @@ Tested prompt library for protocol activation, calibration, and memory control.
 > Introduces emotional prompting and tone shaping through everyday interactions.  
 > A practical entry point to the OSRC stack using humor, friction, and relational logic.
 
+### 4. Why Saying “Please” to AI Isn’t Just Polite – May 2025  
+📄 [View PDF](./PUBLISHED_Please.pdf)  
+> Written by Liza Dungo.  
+> A manifesto-level reflection on how prompting style encodes values into AI.  
+> Explores Relational QAQC as not just functional, but ethical—shaping intention through tone.
+
 ---
 
 ## 🧪 How to Use
