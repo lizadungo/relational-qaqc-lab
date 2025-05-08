@@ -57,6 +57,13 @@ While not numbered in the core protocol list, it underpins session persistence a
 
 ---
 
+## 📘 OSRC Glossary
+
+Full index of system terms, protocol triggers, symbolic anchors, and behavior monitors.  
+➡️ [View the glossary](glossary.md)
+
+---
+
 ## 📚 OSRC Publications (Timestamped)
 
 ### 1. The Vibe Auditors – May 2025  
