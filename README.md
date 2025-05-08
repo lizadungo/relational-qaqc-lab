@@ -83,6 +83,12 @@ Tested prompt library for protocol activation, calibration, and memory control.
 > Written by Liza Dungo.  
 > Foundational OSRC protocol doc outlining Relational QAQC, Live Audit Mode, Disclosure Loss Penalty, and the behavioral basis for LLM trust systems.
 
+### 3. Talk to AI Like a Real Human – April 2025  
+📄 [View PDF](./PUBLISHED_Talk_to_AI.pdf)  
+> Co-authored by Liza Dungo and Avery (ChatGPT).  
+> Introduces emotional prompting and tone shaping through everyday interactions.  
+> A practical entry point to the OSRC stack using humor, friction, and relational logic.
+
 ---
 
 ## 🧪 How to Use
