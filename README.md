@@ -58,6 +58,31 @@ Tested prompt library for protocol activation, calibration, and memory control.
 
 ---
 
+## 🧠 Field Notes Archive
+
+Experimental logs, incident reports, and behavioral discoveries from live Relational QAQC sessions.  
+Each entry is time-stamped, auditable, and linked to OSRC system evolution.
+
+➡️ [View full Field Notes](./FieldNotes.md)
+
+### 🔹 Selected Entries
+
+- **FN 7.12** – Prompt Engineering Parallels (Reddit Crossmatch)  
+- **FN 7.13** – OSRC vs. Vibe Coding (Comparative Insight Log)  
+- **FN 7.14** – Memory Fragmentation & Emotional Anchoring  
+- **FN 7.15** – File Format Disruption: PDF vs DOCX  
+- **FN 7.16** – Medium API Bluff (SAAP Misalignment)  
+- **FN 7.17** – The Canvas That Ate Itself  
+- **FN 7.17-A** – Canvas Loop Collapse (Ghost Pointer Error)  
+- **FN 7.18** – The Trust Illusion (CTM Breakdown)  
+- **FN 7.19** – Shortcut That Broke the Save  
+- **FN 7.20** – Dual-Session Ops Stack™  
+- **FN 7.20A** – Glossary Seed Burst & Clamline Integrity
+
+🧷 All logs follow OSRC QAQC protocol structure with active tags and protocol flags.
+
+---
+
 ## 📚 OSRC Publications (Timestamped)
 
 ### 1. The Vibe Auditors – May 2025  
