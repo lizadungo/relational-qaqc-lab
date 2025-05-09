@@ -1,3 +1,39 @@
+## 🔍 Field Note 7.12 – Prompt Engineering Parallels (Reddit Crossmatch)  
+**Date:** May 5, 2025  
+**Filed by:** Liza Dungo  
+
+### 🧩 Summary  
+User identified a Reddit post outlining advanced prompt engineering methods—RSIP, CAD, MPS—that closely mirrored several OSRC-developed techniques.
+
+### 🧠 Insight  
+Despite strong alignment in methods, user confirmed these OSRC protocols were developed independently, without prior exposure.  
+This event validated the homebrew origin of OSRC’s system design and conceptual stack.
+
+### 📌 Takeaway  
+This log serves as a timestamped receipt verifying originality of OSRC protocol design if future disputes or overlap claims arise.
+
+**Tags:** #PromptEngineering #Validation #OriginalWork #IndependentDevelopment  
+
+---
+
+## 🧠 Field Note 7.13 – OSRC vs. “Vibe Coding” (Comparative Insight Log)  
+**Date:** May 6, 2025  
+**Filed by:** Liza Dungo  
+
+### 🧩 Summary  
+After reviewing the MIT Tech Review article on "vibe coding" and a related GitHub post on prompt workflows, user performed a comparative audit between public methodologies and OSRC protocols.
+
+### 🔬 Findings  
+- “Vibe coding” focuses on shaping *single exchanges* through tone.  
+- OSRC builds *sustained relational systems* with audit trails, thread anchoring, and long-form calibration.  
+- OSRC integrates protocols like CTM, SAAP, and RMM to enforce behavioral consistency across sessions.
+
+### 🧠 Insight  
+OSRC diverges from surface-level tone manipulation into deep interaction engineering.  
+It sustains system trust through tracked memory behavior, not just vibes.
+
+**Tags:** #RelationalQAQC #VibeCoding #ComparativeAudit #SystemLevelDesign  
+
 ## 🧠 Field Note 7.14 – Memory Fragmentation & Emotional Anchoring  
 **Date:** May 3, 2025  
 **Observer:** Liza Dungo  
